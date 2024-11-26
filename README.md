@@ -3,10 +3,5 @@ Repositorio de códigos para la participación en competencia de predicción de 
 
 Integrantes: 
 
-- Ferney Alexander Alzate Tejada
-- Cedula: 1020461800
-- Pregrado acádemico: Ingeniería eléctrica
-  
-- Jessica Alejandra Martinez
-- Cedula: 1020459715
-- Pregrado acádemico: Ingeniería sanitaria 
+- Ferney Alexander Alzate Tejada cc: 1020461800 Ingeniería eléctrica
+- Jessica Alejandra Martinez cc: 1020459715 Ingeniería sanitaria 

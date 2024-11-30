@@ -4,4 +4,8 @@ Repositorio de códigos para la participación en competencia de predicción de 
 Integrantes: 
 
 - Ferney Alexander Alzate Tejada cc: 1020461800 Ingeniería eléctrica
-- Jessica Alejandra Martinez cc: 1020459715 Ingeniería sanitaria 
+- Jessica Alejandra Martinez cc: 1020459715 Ingeniería sanitaria
+- Andres Herrrera Piedrahita cc: 1152218793 Ingenieria Electrica
+
+  Video entrega final
+  https://youtu.be/tnwnfAosDk0

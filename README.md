@@ -8,4 +8,4 @@ Integrantes:
 - Andres Herrrera Piedrahita cc: 1152218793 Ingenieria Electrica
 
   Video entrega final
-  https://youtu.be/tnwnfAosDk0
+  https://youtu.be/4PGXSY99ofE
